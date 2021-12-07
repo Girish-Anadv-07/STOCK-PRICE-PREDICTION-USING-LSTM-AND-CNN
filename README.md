@@ -25,5 +25,9 @@
        PredictionResults_LSTM_FOR_TATAMOTORS.xlsx, PredictionResults_CNN_FOR_MICROSOFT.xlsx,
        PredictionResults_CNN_FOR_MICROSOFT.xlsx, PredictionResults_CNN_FOR_MICROSOFT.xlsx.
        
-  ![ERROR PERCENTAGE](./Error_Percentage.jpeg) 
+## ERROR PERCENTAGE
+      Error Percentages of Microsoft, Reliance, Tata Motors for LSTM and CNN are shown in the image 
+      below
+       
+  ![](./Error_Percentage.jpeg) 
        
