@@ -5,7 +5,6 @@
        November 18,2021) saved in csv files; MICROSOFT.NS.csv, RELIANCE.NS.csv,TATAMOTORS.NS.csv.
        
 ## Model Building of LSTM/CNN
-<pre>
 
        1.Reading data using parse date
        2.Correlation Analysis
@@ -18,7 +17,6 @@
        9.Predictions made by LSTM/CNN
        10.LSTM's Prediction Visual
        11.Converting Prediction data to a excel file
-<pre>
        
 ## Output
 
@@ -27,5 +25,5 @@
        PredictionResults_LSTM_FOR_TATAMOTORS.xlsx, PredictionResults_CNN_FOR_MICROSOFT.xlsx,
        PredictionResults_CNN_FOR_MICROSOFT.xlsx, PredictionResults_CNN_FOR_MICROSOFT.xlsx.
        
-       ![ERROR PERCENTAGE](Error_Percentage.jpeg) 
+       ![ERROR PERCENTAGE](./Error_Percentage.jpeg) 
        
