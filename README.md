@@ -25,5 +25,5 @@
        PredictionResults_LSTM_FOR_TATAMOTORS.xlsx, PredictionResults_CNN_FOR_MICROSOFT.xlsx,
        PredictionResults_CNN_FOR_MICROSOFT.xlsx, PredictionResults_CNN_FOR_MICROSOFT.xlsx.
        
-       ![ERROR PERCENTAGE](./Error_Percentage.jpeg) 
+  ![ERROR PERCENTAGE](./Error_Percentage.jpeg) 
        
