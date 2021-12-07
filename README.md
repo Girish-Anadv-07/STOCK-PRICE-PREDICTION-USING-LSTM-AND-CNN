@@ -18,13 +18,14 @@
        9.Predictions made by LSTM/CNN
        10.LSTM's Prediction Visual
        11.Converting Prediction data to a excel file
+<pre>
        
 ## Output
-<pre>
+
        The prediction results of Microsoft, Reliance, Tata Motors for LSTM and CNN is saved in
        excel files; PredictionResults_LSTM_FOR_MICROSOFT.xlsx,PredictionResults_LSTM_FOR_RELIANCE.xlsx,
        PredictionResults_LSTM_FOR_TATAMOTORS.xlsx, PredictionResults_CNN_FOR_MICROSOFT.xlsx,
        PredictionResults_CNN_FOR_MICROSOFT.xlsx, PredictionResults_CNN_FOR_MICROSOFT.xlsx.
        
-       ![ERROR PERCENTAGE](./Error_Percentage.jpeg) 
+       ![ERROR PERCENTAGE](Error_Percentage.jpeg) 
        
